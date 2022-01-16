@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AkchurinDA
+- 👀 I’m interested in optimization algorithms for Civil Engineering applications
+- 🌱 I’m currently learning Particle Swarm Optimization and Ant Colony Optimization algorithms
+- 💞️ I’m looking to collaborate on anything related to Cold-Formed Steel and Thin-Walled Structure topics
+- 📫 How to reach me AkcurinDA@gmail.com
