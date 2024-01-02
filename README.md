@@ -1,1 +1,1 @@
-Hi! My name is Damir Akchurin. I'm a PhD student at the Civil and Systems Engineering department of the Johns Hopkins University in Baltimore, MD. My current research focuses on investigating the system reliability of cold-forced steel structures.
+Hi! My name is Damir Akchurin. I'm a PhD candidate at the Civil and Systems Engineering Department of the Johns Hopkins University in Baltimore, MD. My current research focuses on investigating the system reliability of cold-forced steel structures.
