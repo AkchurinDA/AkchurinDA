@@ -4,7 +4,7 @@ My name is Damir Akchurin. I'm a PhD Candidate at the Department of Civil and Sy
 
 Fun fact about me: My name means "steel" or "iron" in most Turkic languages.
 
-### Progrmamming languages
+### Programming languages
 <div align = "left">
   <img src="https://seeklogo.com/images/J/julia-logo-DC9698BAF9-seeklogo.com.png" width = 32/>
   <img src="https://seeklogo.com/images/M/matlab-logo-CDDF5BFA92-seeklogo.com.png" width = 32/>
