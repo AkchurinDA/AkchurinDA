@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=AkchurinDA&color=blueviolet)
+
 Hi!
 
 My name is Damir Akchurin. I'm a PhD Candidate at the Department of Civil and Systems Engineering at Johns Hopkins University in Baltimore, MD. My current research focuses on investigating the system reliability of steel structures.
